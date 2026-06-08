@@ -107,6 +107,10 @@ ul {
 }
 /*-------- CELOSIA LOGO --------*/
 
+.margin__top{
+    margin-top: 2rem;
+}
+
 
 .list__expand{
     font-size: larger;
