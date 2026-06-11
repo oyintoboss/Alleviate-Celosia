@@ -300,6 +300,26 @@ a.navbar-brand i {
     height: 50vw;
 }
 
+.slide4 {
+    background: url(../images/cassette_1701412002.webp) no-repeat center;
+    background-size: cover;    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    height: 50vw;
+}
+
+.slide5 {
+    background: url(../images/bhaf_1.jpeg) no-repeat center;
+    background-size: cover;    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    height: 50vw;
+}
+
 .cont-btn a {
     border-radius: 4px;
     border: 2px solid #fff;
