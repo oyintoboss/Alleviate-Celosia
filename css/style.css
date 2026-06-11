@@ -302,12 +302,13 @@ a.navbar-brand i {
 
 .slide4 {
     background: url(../images/megg.jpg) no-repeat center;
-    background-size: cover;    
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
+    background-size: 120%;
+    -webkit-background-size: 120%;
+    -moz-background-size: 120%;
+    -o-background-size: 120%;
+    -ms-background-size: 120%;
     height: 50vw;
+    background-position: left center;
 }
 
 .slide5 {
